@@ -11,6 +11,8 @@ enable_copy_code_button: true
 callouts:
   note:
     color: blue
+  warning:
+    color: yellow
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/

@@ -5,9 +5,17 @@ parent: WEXAC
 nav_order: 2
 ---
 # Login
+Read [WEXAC hands on workshop][WEXAC PDF] slide 16-27
+
+{: .warning}
+You need to be connected to the network (VPN or Ethernet) for the connection to WEXAC to work
 ## Windows
+Slides 16-22
+{: .note}
 TBD
 ## MAC
+Slide 27
+{: .note}
 TBD
 ## LINUX
 Using ssh from the terminal  
@@ -25,5 +33,7 @@ alias wexac='ssh username@access2.wexac.weizmann.ac.il
 # In terminal
 . ~/.bashrc
 ```
+
 ---
 
+[WEXAC PDF]: ../../assets/pdf/wexac_introduction.pdf
