@@ -7,5 +7,3 @@ permalink: /WEXAC
 ---
 # WEXAC
 Get started, basic commands and best practices for working on the cluster
-## Basic commands
-## Folder structure

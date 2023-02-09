@@ -18,6 +18,7 @@ Slides 23-25
 
 If you don't see the left panel press F9  
 If wismain doesn't work try WISMAIN  
+
 ---
 
 [WEXAC PDF]: ../../assets/pdf/wexac_introduction.pdf
