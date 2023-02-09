@@ -8,6 +8,9 @@ logo: "./assets/images/lab_logo.svg"
 favicon_ico: "./assets/images/favicon.ico"
 
 enable_copy_code_button: true
+callouts:
+  note:
+    color: blue
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
