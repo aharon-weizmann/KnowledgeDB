@@ -4,7 +4,7 @@ theme: just-the-docs
 
 url: https://aharon-weizmann.github.io/KnowledgeDB
 
-logo: "./assets/images/NSG_logo.png"
+logo: "./assets/images/lab_logo.svg"
 favicon_ico: "./assets/images/favicon.ico"
 
 mermaid:
